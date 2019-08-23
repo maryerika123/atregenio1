@@ -26,7 +26,7 @@ repeat" required><br>
     
   <input type="button" value="Continue" 
 
-onclick="window.location.href='home.html'" />
+onclick="window.location.href='home.php'" />
   </div>
 
   
