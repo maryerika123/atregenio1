@@ -27,7 +27,7 @@ div.fixed {
         <a href="home.html">Back to home</a> 
     
        <div class="fixed">
-        <a href="photo2.html">Next Photo</a> 
+        <a href="photo2.php">Next Photo</a> 
 </div> 
        
 </html>
