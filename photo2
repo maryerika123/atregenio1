@@ -25,10 +25,10 @@ div.fixed {
 </center>
 
         <div class="bottomleft">
-        <a href="home.html">Back to home</a> 
+        <a href="home.php">Back to home</a> 
      
        <div class="fixed">
-        <a href="photo3.html">Next Photo</a> 
+        <a href="photo3.php">Next Photo</a> 
 </div> 
        
        
