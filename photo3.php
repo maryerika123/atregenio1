@@ -24,7 +24,7 @@
 
 
         <div class="bottomleft">
-        <a href="page1.html">Back to home</a> 
+        <a href="home.php">Back to home</a> 
     
       
 </body>      
