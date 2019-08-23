@@ -20,7 +20,7 @@ div.fixed {
 }
 </style>
     </body>
-<img src="1.jpg" alt="erika" style="width:400px;height:400px;">
+<img src="1.png" alt="erika" style="width:400px;height:400px;">
 </center>
 
         <div class="bottomleft">
