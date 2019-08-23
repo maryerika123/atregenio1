@@ -24,12 +24,10 @@
     
 <input type="button" value="Register" onclick="window.location.href='home.php'" />
    
-  </div>
+ 
 
   <div class="container signin">
     <p>Already have an account? <a href="login.php">Sign in</a>.</p>
   </div>
 
-</form>
-</body>
-</html>
+
